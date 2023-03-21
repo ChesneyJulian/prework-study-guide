@@ -8,10 +8,11 @@ footer {
     height: 120px;
     background-color: #65D77D;
     color: white;
+    font-family:monospace;
 }
 h1,
 h2 { 
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:New Century Schoolbook, TeX Gyre Schola, serif;
     text-align: center;
 }
 img {
@@ -24,7 +25,7 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-    font-family:'Courier New', Courier, monospace;
+    font-family: monospace;
 }
 p {
     text-align: center;
@@ -57,7 +58,7 @@ a {
   
   a:hover {
     border-bottom: 1px solid;
-    background: #4ce0d4;
+    background: #eec1f3;
   }
   
   a:active {
